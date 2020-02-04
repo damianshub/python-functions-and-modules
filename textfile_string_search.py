@@ -1,3 +1,6 @@
+## This script splits each line into a list and searches for the substring
+
+
 file = open('filename.txt', 'r')
 lines = file.readlines()
 file.close()
